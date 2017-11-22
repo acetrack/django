@@ -1,4 +1,4 @@
-# UserID: admin
+# UserID: admin(local), acetrack(pythonanywhere)
 # PassWD:
 
 from django.contrib import admin

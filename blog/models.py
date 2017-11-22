@@ -19,3 +19,8 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+class Swimming(models.Model):
+    def plus(a, b):
+        c = a + b
+        return c
